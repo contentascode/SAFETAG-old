@@ -1,0 +1,26 @@
+{
+  "name": "safetag",
+  "version": "0.0.1",
+  "description": "SAFETAG is a curricula, a methodology, and a framework for security auditors working with advocacy groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentascode/SAFETAG.git"
+  },
+  "author": "",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/contentascode/SAFETAG/issues"
+  },
+  "homepage": "https://github.com/contentascode/SAFETAG#readme",
+  "dependencies": {
+    "metalsmith": "^2.3.0",
+    "metalsmith-drafts": "0.0.1",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.5.0"
+  }
+}
