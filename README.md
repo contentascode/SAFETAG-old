@@ -1,4 +1,4 @@
-> Work in progress to allow build safetag as a local website [![Build Status](https://travis-ci.org/contentascode/SAFETAG.svg?branch=master)](https://travis-ci.org/contentascode/SAFETAG)
+> Work in progress to allow build safetag as a [local website](https://contentascode.github.io/SAFETAG/) [![Build Status](https://travis-ci.org/contentascode/SAFETAG.svg?branch=master)](https://travis-ci.org/contentascode/SAFETAG)
 
 # SAFETAG
 
