@@ -1,12 +1,14 @@
 language: node_js
 node_js:
   - "6"
-script: bash ./deploy.sh
+script: npm run build
 addons:
   apt:
     packages:
     - pandoc
-env:
-  global:
-  - ENCRYPTION_LABEL: "698acf00a06a"
-  - COMMIT_AUTHOR_EMAIL: "jun@iilab.org"
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
