@@ -1,0 +1,350 @@
+<svg width="1522pt" height="765pt" viewbox="0.00 0.00 1521.97 764.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 760.5)">
+<title>openintegrityschema</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-760.5 1517.9657,-760.5 1517.9657,4 -4,4"></polygon>
+<g id="clust5" class="cluster">
+<title>cluster_4</title>
+<polygon fill="none" stroke="#000000" points="8,-246.9132 8,-483.3194 132,-483.3194 132,-246.9132 8,-246.9132"></polygon>
+<text text-anchor="middle" x="70" y="-253.3132" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="12.00" fill="#000000">Legend</text>
+</g>
+<!-- Include -->
+<g id="node1" class="node">
+<title>Include</title>
+<ellipse fill="none" stroke="#000000" cx="69.9657" cy="-448.7804" rx="36.7489" ry="18"></ellipse>
+<text text-anchor="middle" x="69.9657" y="-444.5804" font-family="Times,serif" font-size="14.00" fill="#000000">Include</text>
+</g>
+<!-- guide -->
+<g id="node2" class="node">
+<title>guide</title>
+<ellipse fill="none" stroke="#000000" cx="189.9657" cy="-519.7804" rx="29.5104" ry="18"></ellipse>
+<text text-anchor="middle" x="189.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">guide</text>
+</g>
+<!-- en/index/index.guide.md -->
+<g id="node25" class="node">
+<title>en/index/index.guide.md</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="410.6592,-537.7804 255.2722,-537.7804 255.2722,-501.7804 410.6592,-501.7804 410.6592,-537.7804"></polygon>
+<text text-anchor="middle" x="332.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">en/index/index.guide.md</text>
+</g>
+<!-- guide&#45;&gt;en/index/index.guide.md -->
+<g id="edge2" class="edge">
+<title>guide-&gt;en/index/index.guide.md</title>
+<path fill="none" stroke="#000000" d="M219.9432,-519.7804C227.5598,-519.7804 236.1384,-519.7804 245.0783,-519.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="245.2932,-523.2805 255.2931,-519.7804 245.2931,-516.2805 245.2932,-523.2805"></polygon>
+</g>
+<!-- !INCLUDE methods/intro.md -->
+<g id="node3" class="node">
+<title>!INCLUDE methods/intro.md</title>
+<ellipse fill="none" stroke="#000000" cx="667.9657" cy="-661.7804" rx="116.9158" ry="18"></ellipse>
+<text text-anchor="middle" x="667.9657" y="-657.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE methods/intro.md</text>
+</g>
+<!-- !INCLUDE methods/context_research.guide.md -->
+<g id="node4" class="node">
+<title>!INCLUDE methods/context_research.guide.md</title>
+<ellipse fill="none" stroke="#000000" cx="667.9657" cy="-590.7804" rx="181.5373" ry="18"></ellipse>
+<text text-anchor="middle" x="667.9657" y="-586.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE methods/context_research.guide.md</text>
+</g>
+<!-- !INCLUDE methods/intro.md&#45;&gt;!INCLUDE methods/context_research.guide.md -->
+<!-- methods/intro.md -->
+<g id="node26" class="node">
+<title>methods/intro.md</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="1119.6279,-750.7804 1004.3035,-750.7804 1004.3035,-714.7804 1119.6279,-714.7804 1119.6279,-750.7804"></polygon>
+<text text-anchor="middle" x="1061.9657" y="-728.5804" font-family="Times,serif" font-size="14.00" fill="#000000">methods/intro.md</text>
+</g>
+<!-- !INCLUDE methods/intro.md&#45;&gt;methods/intro.md -->
+<g id="edge5" class="edge">
+<title>!INCLUDE methods/intro.md-&gt;methods/intro.md</title>
+<path fill="none" stroke="#000000" d="M743.9329,-675.4699C816.3987,-688.5285 924.5382,-708.0155 994.1629,-720.5621"></path>
+<polygon fill="#000000" stroke="#000000" points="993.6849,-724.0323 1004.1471,-722.3613 994.9264,-717.1432 993.6849,-724.0323"></polygon>
+</g>
+<!-- Summary -->
+<g id="node15" class="node">
+<title>Summary</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1115.9657,-679.7804 1007.9657,-679.7804 1007.9657,-643.7804 1115.9657,-643.7804 1115.9657,-679.7804"></polygon>
+<text text-anchor="middle" x="1061.9657" y="-657.5804" font-family="Times,serif" font-size="14.00" fill="#000000">Summary</text>
+</g>
+<!-- !INCLUDE methods/context_research.guide.md&#45;&gt;Summary -->
+<g id="edge8" class="edge">
+<title>!INCLUDE methods/context_research.guide.md-&gt;Summary</title>
+<path fill="none" stroke="#000000" d="M755.8966,-606.6258C829.1999,-619.8353 931.9234,-638.3464 997.7117,-650.2016"></path>
+<polygon fill="#000000" stroke="#000000" points="997.4808,-653.7163 1007.9431,-652.0453 998.7223,-646.8273 997.4808,-653.7163"></polygon>
+</g>
+<!-- Purpose -->
+<g id="node16" class="node">
+<title>Purpose</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1115.9657,-608.7804 1007.9657,-608.7804 1007.9657,-572.7804 1115.9657,-572.7804 1115.9657,-608.7804"></polygon>
+<text text-anchor="middle" x="1061.9657" y="-586.5804" font-family="Times,serif" font-size="14.00" fill="#000000">Purpose</text>
+</g>
+<!-- !INCLUDE methods/context_research.guide.md&#45;&gt;Purpose -->
+<g id="edge9" class="edge">
+<title>!INCLUDE methods/context_research.guide.md-&gt;Purpose</title>
+<path fill="none" stroke="#000000" d="M849.9728,-590.7804C902.8359,-590.7804 957.1472,-590.7804 997.5622,-590.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="997.7905,-594.2805 1007.7905,-590.7804 997.7904,-587.2805 997.7905,-594.2805"></polygon>
+</g>
+<!-- ... -->
+<g id="node17" class="node">
+<title>...</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1115.9657,-537.7804 1007.9657,-537.7804 1007.9657,-501.7804 1115.9657,-501.7804 1115.9657,-537.7804"></polygon>
+<text text-anchor="middle" x="1061.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">...</text>
+</g>
+<!-- !INCLUDE methods/context_research.guide.md&#45;&gt;... -->
+<g id="edge10" class="edge">
+<title>!INCLUDE methods/context_research.guide.md-&gt;...</title>
+<path fill="none" stroke="#000000" d="M755.8966,-574.935C829.1999,-561.7255 931.9234,-543.2144 997.7117,-531.3591"></path>
+<polygon fill="#000000" stroke="#000000" points="998.7223,-534.7335 1007.9431,-529.5154 997.4808,-527.8445 998.7223,-534.7335"></polygon>
+</g>
+<!-- #### Conduct Interviews -->
+<g id="node18" class="node">
+<title>#### Conduct Interviews</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="746.4977,-537.7804 589.4338,-537.7804 589.4338,-501.7804 746.4977,-501.7804 746.4977,-537.7804"></polygon>
+<text text-anchor="middle" x="667.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">#### Conduct Interviews</text>
+</g>
+<!-- !INCLUDE methods/context_research.guide.md&#45;&gt;#### Conduct Interviews -->
+<!-- !INCLUDE exercises/interviews/approach.md -->
+<g id="node5" class="node">
+<title>!INCLUDE exercises/interviews/approach.md</title>
+<ellipse fill="none" stroke="#000000" cx="667.9657" cy="-448.7804" rx="174.2943" ry="18"></ellipse>
+<text text-anchor="middle" x="667.9657" y="-444.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE exercises/interviews/approach.md</text>
+</g>
+<!-- !INCLUDE exercises/regional_context_research/index.md -->
+<g id="node6" class="node">
+<title>!INCLUDE exercises/regional_context_research/index.md</title>
+<ellipse fill="none" stroke="#000000" cx="667.9657" cy="-377.7804" rx="217.7012" ry="18"></ellipse>
+<text text-anchor="middle" x="667.9657" y="-373.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE exercises/regional_context_research/index.md</text>
+</g>
+<!-- !INCLUDE exercises/interviews/approach.md&#45;&gt;!INCLUDE exercises/regional_context_research/index.md -->
+<!-- !INCLUDE exercises/technical_context_research/index.md -->
+<g id="node7" class="node">
+<title>!INCLUDE exercises/technical_context_research/index.md</title>
+<ellipse fill="none" stroke="#000000" cx="667.9657" cy="-307.7804" rx="220.5826" ry="18"></ellipse>
+<text text-anchor="middle" x="667.9657" y="-303.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE exercises/technical_context_research/index.md</text>
+</g>
+<!-- !INCLUDE exercises/regional_context_research/index.md&#45;&gt;!INCLUDE exercises/technical_context_research/index.md -->
+<!-- exercises/regional_context_research/index.md -->
+<g id="node28" class="node">
+<title>exercises/regional_context_research/index.md</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="1199.7461,-395.7804 924.1853,-395.7804 924.1853,-359.7804 1199.7461,-359.7804 1199.7461,-395.7804"></polygon>
+<text text-anchor="middle" x="1061.9657" y="-373.5804" font-family="Times,serif" font-size="14.00" fill="#000000">exercises/regional_context_research/index.md</text>
+</g>
+<!-- !INCLUDE exercises/regional_context_research/index.md&#45;&gt;exercises/regional_context_research/index.md -->
+<g id="edge15" class="edge">
+<title>!INCLUDE exercises/regional_context_research/index.md-&gt;exercises/regional_context_research/index.md</title>
+<path fill="none" stroke="#000000" d="M885.996,-377.7804C895.3596,-377.7804 904.6591,-377.7804 913.8087,-377.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="914.0705,-381.2805 924.0704,-377.7804 914.0704,-374.2805 914.0705,-381.2805"></polygon>
+</g>
+<!-- !INCLUDE summary.md -->
+<g id="node8" class="node">
+<title>!INCLUDE summary.md</title>
+<ellipse fill="none" stroke="#000000" cx="1374.9657" cy="-590.7804" rx="99.838" ry="18"></ellipse>
+<text text-anchor="middle" x="1374.9657" y="-586.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE summary.md</text>
+</g>
+<!-- ##### Overview -->
+<g id="node20" class="node">
+<title>##### Overview</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1429.6663,-537.7804 1320.2651,-537.7804 1320.2651,-501.7804 1429.6663,-501.7804 1429.6663,-537.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">##### Overview</text>
+</g>
+<!-- !INCLUDE summary.md&#45;&gt;##### Overview -->
+<!-- !INCLUDE approach.md -->
+<g id="node9" class="node">
+<title>!INCLUDE approach.md</title>
+<ellipse fill="none" stroke="#000000" cx="1374.9657" cy="-448.7804" rx="99.9761" ry="18"></ellipse>
+<text text-anchor="middle" x="1374.9657" y="-444.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE approach.md</text>
+</g>
+<!-- ##### Materials Needed -->
+<g id="node21" class="node">
+<title>##### Materials Needed</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1451.5873,-395.7804 1298.3442,-395.7804 1298.3442,-359.7804 1451.5873,-359.7804 1451.5873,-395.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-373.5804" font-family="Times,serif" font-size="14.00" fill="#000000">##### Materials Needed</text>
+</g>
+<!-- !INCLUDE approach.md&#45;&gt;##### Materials Needed -->
+<!-- !INCLUDE materials_needed.md -->
+<g id="node10" class="node">
+<title>!INCLUDE materials_needed.md</title>
+<ellipse fill="none" stroke="#000000" cx="1374.9657" cy="-307.7804" rx="129.4095" ry="18"></ellipse>
+<text text-anchor="middle" x="1374.9657" y="-303.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE materials_needed.md</text>
+</g>
+<!-- ##### Considerations -->
+<g id="node22" class="node">
+<title>##### Considerations</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1444.4598,-254.7804 1305.4717,-254.7804 1305.4717,-218.7804 1444.4598,-218.7804 1444.4598,-254.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-232.5804" font-family="Times,serif" font-size="14.00" fill="#000000">##### Considerations</text>
+</g>
+<!-- !INCLUDE materials_needed.md&#45;&gt;##### Considerations -->
+<!-- !INCLUDE operational_security.md -->
+<g id="node11" class="node">
+<title>!INCLUDE operational_security.md</title>
+<ellipse fill="none" stroke="#000000" cx="1374.9657" cy="-165.7804" rx="139.4017" ry="18"></ellipse>
+<text text-anchor="middle" x="1374.9657" y="-161.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE operational_security.md</text>
+</g>
+<!-- ##### Walkthrough -->
+<g id="node23" class="node">
+<title>##### Walkthrough</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1438.4745,-112.7804 1311.4569,-112.7804 1311.4569,-76.7804 1438.4745,-76.7804 1438.4745,-112.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-90.5804" font-family="Times,serif" font-size="14.00" fill="#000000">##### Walkthrough</text>
+</g>
+<!-- !INCLUDE operational_security.md&#45;&gt;##### Walkthrough -->
+<!-- !INCLUDE instructions.md -->
+<g id="node12" class="node">
+<title>!INCLUDE instructions.md</title>
+<ellipse fill="none" stroke="#000000" cx="1374.9657" cy="-23.7804" rx="108.6978" ry="18"></ellipse>
+<text text-anchor="middle" x="1374.9657" y="-19.5804" font-family="Times,serif" font-size="14.00" fill="#000000">!INCLUDE instructions.md</text>
+</g>
+<!-- Heading -->
+<g id="node13" class="node">
+<title>Heading</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="123.9657,-395.7804 15.9657,-395.7804 15.9657,-359.7804 123.9657,-359.7804 123.9657,-395.7804"></polygon>
+<text text-anchor="middle" x="69.9657" y="-373.5804" font-family="Times,serif" font-size="14.00" fill="#000000">Heading</text>
+</g>
+<!-- # SAFETAG Methods -->
+<g id="node14" class="node">
+<title># SAFETAG Methods</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="738.3583,-750.7804 597.5731,-750.7804 597.5731,-714.7804 738.3583,-714.7804 738.3583,-750.7804"></polygon>
+<text text-anchor="middle" x="667.9657" y="-728.5804" font-family="Times,serif" font-size="14.00" fill="#000000"># SAFETAG Methods</text>
+</g>
+<!-- # SAFETAG Methods&#45;&gt;!INCLUDE methods/intro.md -->
+<!-- #### Conduct Interviews&#45;&gt;!INCLUDE exercises/interviews/approach.md -->
+<!-- ##### Summary -->
+<g id="node19" class="node">
+<title>##### Summary</title>
+<polygon fill="none" stroke="#000000" stroke-dasharray="5,2" points="1429.4071,-679.7804 1320.5243,-679.7804 1320.5243,-643.7804 1429.4071,-643.7804 1429.4071,-679.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-657.5804" font-family="Times,serif" font-size="14.00" fill="#000000">##### Summary</text>
+</g>
+<!-- ##### Summary&#45;&gt;!INCLUDE summary.md -->
+<!-- ##### Overview&#45;&gt;!INCLUDE approach.md -->
+<!-- ##### Materials Needed&#45;&gt;!INCLUDE materials_needed.md -->
+<!-- ##### Considerations&#45;&gt;!INCLUDE operational_security.md -->
+<!-- ##### Walkthrough&#45;&gt;!INCLUDE instructions.md -->
+<!-- makefile -->
+<g id="node24" class="node">
+<title>makefile</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="123.9657,-537.7804 15.9657,-537.7804 15.9657,-501.7804 123.9657,-501.7804 123.9657,-537.7804"></polygon>
+<text text-anchor="middle" x="69.9657" y="-515.5804" font-family="Times,serif" font-size="14.00" fill="#000000">makefile</text>
+</g>
+<!-- makefile&#45;&gt;guide -->
+<g id="edge1" class="edge">
+<title>makefile-&gt;guide</title>
+<path fill="none" stroke="#000000" d="M123.9979,-519.7804C132.7461,-519.7804 141.6652,-519.7804 150.0014,-519.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="150.192,-523.2805 160.192,-519.7804 150.192,-516.2805 150.192,-523.2805"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;!INCLUDE methods/intro.md -->
+<g id="edge4" class="edge">
+<title>en/index/index.guide.md-&gt;!INCLUDE methods/intro.md</title>
+<path fill="none" stroke="#000000" d="M348.734,-538.158C369.1017,-560.6362 406.7674,-598.115 447.1745,-617.7804 480.9852,-634.2354 520.5653,-644.5368 556.8035,-650.9857"></path>
+<polygon fill="#000000" stroke="#000000" points="556.4836,-654.4814 566.9283,-652.7043 557.6551,-647.5801 556.4836,-654.4814"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;!INCLUDE methods/context_research.guide.md -->
+<g id="edge7" class="edge">
+<title>en/index/index.guide.md-&gt;!INCLUDE methods/context_research.guide.md</title>
+<path fill="none" stroke="#000000" d="M407.5221,-537.8079C420.7138,-540.8828 434.334,-543.984 447.1745,-546.7804 488.7186,-555.8276 534.8229,-565.1308 574.1107,-572.8388"></path>
+<polygon fill="#000000" stroke="#000000" points="573.4593,-576.2776 583.9453,-574.763 574.8035,-569.4079 573.4593,-576.2776"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;!INCLUDE exercises/interviews/approach.md -->
+<g id="edge12" class="edge">
+<title>en/index/index.guide.md-&gt;!INCLUDE exercises/interviews/approach.md</title>
+<path fill="none" stroke="#000000" d="M407.5221,-501.7529C420.7138,-498.678 434.334,-495.5767 447.1745,-492.7804 488.9826,-483.6756 535.4092,-474.3117 574.859,-466.5752"></path>
+<polygon fill="#000000" stroke="#000000" points="575.5889,-469.9988 584.7312,-464.6445 574.2454,-463.129 575.5889,-469.9988"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;!INCLUDE exercises/regional_context_research/index.md -->
+<g id="edge14" class="edge">
+<title>en/index/index.guide.md-&gt;!INCLUDE exercises/regional_context_research/index.md</title>
+<path fill="none" stroke="#000000" d="M348.734,-501.4027C369.1017,-478.9245 406.7674,-441.4457 447.1745,-421.7804 472.2462,-409.5785 500.4902,-400.7603 528.1915,-394.3875"></path>
+<polygon fill="#000000" stroke="#000000" points="528.949,-397.8046 537.9611,-392.2338 527.442,-390.9688 528.949,-397.8046"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;!INCLUDE exercises/technical_context_research/index.md -->
+<g id="edge13" class="edge">
+<title>en/index/index.guide.md-&gt;!INCLUDE exercises/technical_context_research/index.md</title>
+<path fill="none" stroke="#000000" d="M339.7354,-501.5134C353.8335,-466.1927 389.8776,-388.6829 447.1745,-350.7804 465.11,-338.9159 485.5453,-330.166 506.5752,-323.7398"></path>
+<polygon fill="#000000" stroke="#000000" points="507.6313,-327.078 516.2727,-320.9479 505.6946,-320.3512 507.6313,-327.078"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;# SAFETAG Methods -->
+<g id="edge3" class="edge">
+<title>en/index/index.guide.md-&gt;# SAFETAG Methods</title>
+<path fill="none" stroke="#000000" d="M339.75,-538.0255C353.8736,-573.3076 389.9603,-650.753 447.1745,-688.7804 488.3208,-716.1282 542.6636,-727.1966 587.1394,-731.3945"></path>
+<polygon fill="#000000" stroke="#000000" points="587.0834,-734.9021 597.3422,-732.2548 587.6717,-727.9269 587.0834,-734.9021"></polygon>
+</g>
+<!-- en/index/index.guide.md&#45;&gt;#### Conduct Interviews -->
+<g id="edge11" class="edge">
+<title>en/index/index.guide.md-&gt;#### Conduct Interviews</title>
+<path fill="none" stroke="#000000" d="M410.6635,-519.7804C460.948,-519.7804 526.5628,-519.7804 578.9461,-519.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="579.2379,-523.2805 589.2379,-519.7804 579.2379,-516.2805 579.2379,-523.2805"></polygon>
+</g>
+<!-- Can&#39;t find it in the PDF! -->
+<g id="node27" class="node">
+<title>Can't find it in the PDF!</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="1450.3334,-750.7804 1299.5981,-750.7804 1299.5981,-714.7804 1450.3334,-714.7804 1450.3334,-750.7804"></polygon>
+<text text-anchor="middle" x="1374.9657" y="-728.5804" font-family="Times,serif" font-size="14.00" fill="#000000">Can't find it in the PDF!</text>
+</g>
+<!-- methods/intro.md&#45;&gt;Can&#39;t find it in the PDF! -->
+<g id="edge6" class="edge">
+<title>methods/intro.md-&gt;Can't find it in the PDF!</title>
+<path fill="none" stroke="#000000" d="M1119.7395,-732.7804C1167.2827,-732.7804 1235.3717,-732.7804 1289.2665,-732.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="1289.5008,-736.2805 1299.5007,-732.7804 1289.5007,-729.2805 1289.5008,-736.2805"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;!INCLUDE summary.md -->
+<g id="edge17" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;!INCLUDE summary.md</title>
+<path fill="none" stroke="#000000" d="M1087.6982,-395.7939C1116.8557,-416.9563 1164.8343,-454.1136 1199.6059,-492.7804 1218.9193,-514.2574 1212.6572,-529.4512 1235.765,-546.7804 1252.8321,-559.5795 1273.7242,-568.7187 1294.081,-575.221"></path>
+<polygon fill="#000000" stroke="#000000" points="1293.1107,-578.584 1303.6952,-578.116 1295.129,-571.8813 1293.1107,-578.584"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;!INCLUDE approach.md -->
+<g id="edge19" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;!INCLUDE approach.md</title>
+<path fill="none" stroke="#000000" d="M1141.3535,-395.7885C1190.98,-407.0456 1254.3982,-421.4312 1302.6326,-432.3725"></path>
+<polygon fill="#000000" stroke="#000000" points="1302.1578,-435.8537 1312.6843,-434.6527 1303.7064,-429.0271 1302.1578,-435.8537"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;!INCLUDE materials_needed.md -->
+<g id="edge21" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;!INCLUDE materials_needed.md</title>
+<path fill="none" stroke="#000000" d="M1142.571,-359.7536C1190.0046,-349.1455 1249.7114,-335.7925 1296.7279,-325.2777"></path>
+<polygon fill="#000000" stroke="#000000" points="1297.5641,-328.6772 1306.5591,-323.079 1296.0363,-321.8459 1297.5641,-328.6772"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;!INCLUDE operational_security.md -->
+<g id="edge23" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;!INCLUDE operational_security.md</title>
+<path fill="none" stroke="#000000" d="M1075.9307,-359.5303C1103.0634,-325.2849 1166.3634,-251.1268 1235.765,-209.7804 1253.6351,-199.1342 1274.3539,-190.7919 1294.2582,-184.3705"></path>
+<polygon fill="#000000" stroke="#000000" points="1295.4303,-187.6716 1303.9479,-181.3708 1293.3601,-180.9847 1295.4303,-187.6716"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;!INCLUDE instructions.md -->
+<g id="edge25" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;!INCLUDE instructions.md</title>
+<path fill="none" stroke="#000000" d="M1066.9372,-359.6512C1082.4434,-306.5151 1135.0182,-149.7491 1235.765,-67.7804 1251.2382,-55.1912 1270.3541,-46.1841 1289.4104,-39.7463"></path>
+<polygon fill="#000000" stroke="#000000" points="1290.5673,-43.0514 1299.0461,-36.6985 1288.4561,-36.3773 1290.5673,-43.0514"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;##### Summary -->
+<g id="edge16" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;##### Summary</title>
+<path fill="none" stroke="#000000" d="M1092.8594,-395.8216C1124.2423,-415.7044 1172.0377,-450.5349 1199.6059,-492.7804 1231.2118,-541.2134 1195.3761,-576.3869 1235.765,-617.7804 1255.3841,-637.8874 1284.1091,-648.8314 1310.377,-654.7776"></path>
+<polygon fill="#000000" stroke="#000000" points="1309.7996,-658.232 1320.3,-656.8205 1311.2112,-651.3758 1309.7996,-658.232"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;##### Overview -->
+<g id="edge18" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;##### Overview</title>
+<path fill="none" stroke="#000000" d="M1089.9367,-395.9613C1123.5269,-417.2185 1182.0708,-452.4566 1235.765,-475.7804 1259.5681,-486.12 1286.599,-495.2275 1310.4676,-502.4344"></path>
+<polygon fill="#000000" stroke="#000000" points="1309.5541,-505.8141 1320.1366,-505.3033 1311.5453,-499.1033 1309.5541,-505.8141"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;##### Materials Needed -->
+<g id="edge20" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;##### Materials Needed</title>
+<path fill="none" stroke="#000000" d="M1199.7076,-377.7804C1229.6667,-377.7804 1260.5562,-377.7804 1287.899,-377.7804"></path>
+<polygon fill="#000000" stroke="#000000" points="1288.1954,-381.2805 1298.1954,-377.7804 1288.1953,-374.2805 1288.1954,-381.2805"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;##### Considerations -->
+<g id="edge22" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;##### Considerations</title>
+<path fill="none" stroke="#000000" d="M1090.2638,-359.6201C1123.9284,-338.5818 1182.3103,-303.8612 1235.765,-280.7804 1255.7522,-272.1503 1277.9982,-264.3579 1298.737,-257.8127"></path>
+<polygon fill="#000000" stroke="#000000" points="1299.9464,-261.1022 1308.4619,-254.7984 1297.874,-254.416 1299.9464,-261.1022"></polygon>
+</g>
+<!-- exercises/regional_context_research/index.md&#45;&gt;##### Walkthrough -->
+<g id="edge24" class="edge">
+<title>exercises/regional_context_research/index.md-&gt;##### Walkthrough</title>
+<path fill="none" stroke="#000000" d="M1070.0526,-359.7736C1090.8977,-315.3941 1150.8343,-199.9407 1235.765,-138.7804 1255.1145,-124.8464 1279.0416,-115.2115 1301.5686,-108.5977"></path>
+<polygon fill="#000000" stroke="#000000" points="1302.7567,-111.9004 1311.458,-105.8558 1300.8864,-105.1548 1302.7567,-111.9004"></polygon>
+</g>
+<!-- File -->
+<g id="node29" class="node">
+<title>File</title>
+<polygon fill="none" stroke="#000000" stroke-width="2" points="123.9657,-325.7804 15.9657,-325.7804 15.9657,-289.7804 123.9657,-289.7804 123.9657,-325.7804"></polygon>
+<text text-anchor="middle" x="69.9657" y="-303.5804" font-family="Times,serif" font-size="14.00" fill="#000000">File</text>
+</g>
+</g>
+</svg>
