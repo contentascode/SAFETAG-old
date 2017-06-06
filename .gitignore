@@ -24,4 +24,4 @@ NotoSans-hinted.zip
 # New
 
 node_modules
-**/.ipynb_checkpoints/
+meta/.*
