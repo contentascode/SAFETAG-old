@@ -1,12 +1,20 @@
-language: node_js
-node_js:
-  - "6"
+language: r
+pandoc_version: 1.17
+env:
+  - TRAVIS_NODE_VERSION="6"
+
+install:
+  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
+  - npm install
+
 script: npm run build
+
 addons:
   apt:
     packages:
     - pandoc
 deploy:
+  local_dir: build
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
