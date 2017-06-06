@@ -2,6 +2,10 @@ language: node_js
 node_js:
   - "6"
 script: bash ./deploy.sh
+addons:
+  apt:
+    packages:
+    - pandoc
 env:
   global:
   - ENCRYPTION_LABEL: "698acf00a06a"
