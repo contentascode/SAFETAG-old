@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/contentascode/SAFETAG#readme",
   "dependencies": {
-    "hercule": "^4.0.1",
+    "hercule": "^5.0.0",
     "metalsmith": "github:contentascode/metalsmith",
     "metalsmith-assets-improved": "^1.0.0",
     "metalsmith-debug": "^1.1.0",
